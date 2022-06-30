@@ -1,0 +1,530 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+
+ align-items: center;
+ justify-content: space-between;
+ width: 100%;
+ height: 100%;
+ top: 0;
+}
+
+
+
+.navbar ul{
+    list-style: none;
+    margin-top: 34px;
+    display: inline-flex;
+}
+.navbar a{
+    text-decoration: none;
+    margin: -200px;
+    margin-top: 32px;
+    margin-left: 280px;
+    color: rgb(230, 212, 212);
+}
+
+section{
+   width: 100%;
+    height: 650px;
+    background-image: url("https://www.datocms-assets.com/55010/1631448989-1609827493259134-modelo.jpg?auto64=Zm9ybWF0LGNvbXByZXNz&cs=srgb");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: center;
+    
+    
+   
+}
+
+ .logo{
+    position: absolute;
+    margin-top: 32px;
+    margin-left: 20px;
+    width: 124px;
+    height: 17px;
+    position: fixed;
+}
+
+section p{
+    position: absolute;
+    text-align: center;
+    margin: 300px;
+    margin-left: 420px;
+    word-spacing: 4px;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(218, 218, 189);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.prg{
+    position: absolute;
+    text-align: center;
+    margin: 240px;
+    margin-left: 1280px;
+    font-size: 28px;
+    color: rgb(218, 218, 189);
+    position: fixed;
+}
+
+.prg a{
+    color: rgb(218, 218, 189);
+    text-decoration: none;
+}
+
+
+marquee{
+    background-color: rgb(205, 139, 168);
+    height: 48px;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-size: 22px;
+    
+}
+
+
+.main {
+    width:100%;
+    margin:auto;
+    position: relative;
+}
+ 
+.main img {
+    float:left;
+    padding:0 10px 10px 0;
+    width: 50%;
+}
+ 
+.main p {
+    float:left;
+    width:500px;
+    margin: 70px;
+    margin-top: 160px;
+    line-height: 30px;
+    font-family:sans-serif ;
+    margin-left: 99px;
+    margin-bottom: 40px;
+}
+
+.baslık{
+    position: absolute;
+  margin-top: 86px;
+  margin-left: 770px;
+  font-size: 40px;
+}
+
+.snf{
+    color: black;
+    font-weight: bolder;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    margin: 2px;
+    margin-left: 98px;
+    border: 2px solid black;
+    font-size: 14px;
+    font-weight: bolder;
+   
+    margin-bottom: -10px;
+}
+
+.donate-kutu:hover{
+    color: white;
+    cursor: pointer;
+    background-color: black;
+    transition:1s;
+    box-shadow: 0 1px 4px rgba(0,0,0,.6);
+}
+
+.btn{
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    margin: 2px;
+    margin-left: 70px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    margin-left: 18px;
+}
+
+button a{
+    color: black;
+    text-decoration: none;
+}
+
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.vıew-btn{
+    cursor: pointer;
+}
+
+.vıew-btn:hover{
+    background-color: black;
+    color: white;
+}
+
+.main2{
+    background-color: rgb(216, 188, 216);
+    width: 25%;
+    height: 750px;
+    position: absolute;
+    margin-top: 112px;
+}
+
+
+.prf{
+    position: relative;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 55px;
+    font-weight: bolder;
+    align-items: center;
+    margin-left: 115px;
+    letter-spacing: 2px;
+   margin-top: 190px;
+}
+
+
+.main2 button{
+    background-color: rgb(216, 188, 216);
+    color: black;
+    margin-top: 70px;
+    margin-left: 120px;
+}
+
+
+
+.fotoğraf{
+    width: 1350px;
+    height: 480px;
+  position: absolute;
+    margin-top: -448px;
+    margin-left: 95px;
+}
+
+.ek h2{
+    width: 400px;
+    margin-left: 400px;
+    padding-bottom: 20px;
+    
+}
+
+.ek p{
+    width: 900px;
+    margin-left: 400px;
+    line-height: 23px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.ek a{
+position: absolute;
+   width: 100px;
+   margin-left: 400px;
+   padding-top: 20px;
+   text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+    border-bottom: double black;
+    border-width: 5px;
+}
+
+
+.main3{
+    background-color: rgb(209, 158, 92);
+    width: 670px;
+    height: 640px;
+    margin-top: 85px;
+}
+
+
+.main-p{
+    margin-left: 190px;
+    margin-top: 310px;
+    line-height: 26px;
+    position: absolute;
+    width: 500px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.main-bas{
+    font-size: 30px;
+    width: 300px;
+    margin-top: 120px;
+    margin-left: 190px;
+    position: absolute;  
+}
+
+#icon{
+   margin-left:120px;
+    font-size: 44px;
+}
+
+.main-foto{
+    width: 700px;
+    margin-left: 670px;
+    margin-top: -0px;
+    height: 640px;
+}
+
+.main4{
+    width: 1370px;
+    height:610px;
+    background-color: rgb(108, 80, 167);
+}
+
+.kutu4{
+    color: white;
+    width: 230px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 167px;
+    font-size: 13px;
+}
+
+.kutu4 h2{
+    margin-left: -50px;
+    margin-top: 36px;
+}
+
+.kutu4 p{
+    
+    font-size: 15px;
+    line-height: 21px;
+   margin-left: -50px;
+}
+
+.kutu4 a{
+    margin-left: 44px;
+    color: rgb(216, 184, 213);
+    text-decoration: none;
+    margin-left: 7px;
+    font-size: 16px;
+}
+
+.kutu4 a:hover{
+    color: aliceblue;
+}
+
+.kutu4 img{
+    width: 64px;
+    margin-left: 10px;
+}
+
+
+.kutu5{
+    margin-left: 600px;
+    position: absolute;
+   margin-top: 160px;
+}
+
+.kutu5 h2{
+    margin-left: -90px;
+    margin-top: 36px;
+    width: 400px;
+    color: white;
+}
+
+.kutu5 p{
+    margin-top: -5px;
+    font-size: 15px;
+    line-height: 21px;
+    color: white;
+   margin-left: -50px;
+}
+
+.kutu5 a{
+    margin-left: 55px;
+    color: rgb(216, 184, 213);
+    text-decoration: none;
+    margin-left: 7px;
+    font-size: 16px;
+    margin-top: 6px;
+    position: absolute;
+}
+
+.kutu5 a:hover{
+    color: aliceblue;
+}
+
+.kutu5 img{
+    width: 64px;
+    margin-left: 40px;
+}
+
+.kutu6{
+    margin-left: 1070px;
+    position: absolute;
+   margin-top: 160px;
+}
+
+.kutu6 h2{
+    margin-left: -30px;
+    margin-top: 36px;
+    width: 400px;
+    color: white;
+}
+
+.kutu6 p{
+    margin-top: 40px;
+    font-size: 15px;
+    line-height: 21px;
+    color: white;
+   margin-left: -50px;
+}
+
+.kutu6 a{
+    margin-left: 60px;
+    color: rgb(216, 184, 213);
+    text-decoration: none;
+    margin-left: 7px;
+    font-size: 16px;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.kutu6 a:hover{
+    color: aliceblue;
+}
+
+.kutu6 img{
+    width: 64px;
+    margin-left: 10px;
+}
+
+.main5{
+    width: 1370px;
+    height:418px;
+    background-color: rgb(27, 27, 28);
+ 
+}
+
+.main5 h2{
+    width: 500px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 480px;
+}
+
+
+#input{
+    width: 360px;
+    height: 42px;
+    background-color: rgb(27, 27, 28);
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 450px;
+   border-color: white;
+   color: white;
+}
+
+::placeholder{
+    word-spacing: 2px;
+    color: azure;
+    position: absolute;
+    margin-left: 18px;
+    margin-top: 8px;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.main5 button{
+    font-size: 13px;
+    position: absolute;
+    margin-top: 159px;
+    margin-left: 810px;
+    height: 43px;
+    background-color: rgb(27, 27, 28);
+    color: white;
+    border-color: rgb(132, 118, 145);
+    border-width: 1px;
+    cursor: pointer;
+}
+
+span a{
+    color: white;
+}
+
+.sonbtn:hover{
+    background-color: rgb(90, 56, 144);
+    transition-duration: 0.4s;
+}
+
+.main5 a{
+    width: 390px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin-top: 270px;
+    margin-left: 405px;
+    word-spacing: 1px;
+    position: absolute;
+}
+
+.png1 img{
+    width: 40px;
+    position: absolute;
+    margin-left: 420px;
+   margin-top: -25px;
+}
+
+.png2 img{
+    width: 30px;
+    position: absolute;
+    margin-left: 470px;
+   margin-top: -20px;
+}
+
+.png3 img{
+    width: 30px;
+    position: absolute;
+    margin-left: 510px;
+   margin-top: -20px;
+}
+
+.png4 img{
+    width: 30px;
+    position: absolute;
+    margin-left: 550px;
+   margin-top: -20px;
+}
+
+.png5 img{
+    width: 30px;
+    position: absolute;
+    margin-left: 590px;
+   margin-top: -20px;
+}
+
+.son{
+    color: rgb(143, 135, 135);
+    width: 300px;
+    font-size: 11px;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 570px;
+    line-height: 14px;
+    
+}
